@@ -6,7 +6,10 @@
         artist: 'DJXXXRATED',
         album: 'Make Yourself',
         song: 'BOUNCE',
-        src: 'https://drive.google.com/uc?export=download&amp;id=1XKG-jhEpq0zlgJmi0Mr1d5OQwA4Fvv98'
+        <audio controls>
+  <source src="https://drive.google.com/uc?export=download&amp;id=1Xtna_xD5p9ZjiTqy_kswT5xxfJ6lKXhu" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
       },
       {
         artist: 'Artist 2',
