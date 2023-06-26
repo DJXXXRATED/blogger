@@ -3,9 +3,9 @@
     // Playlist
     var playlist = [
       {
-        artist: 'Incubus',
+        artist: 'DJXXXRATED',
         album: 'Make Yourself',
-        song: 'Stellar',
+        song: 'BOUNCE',
         src: 'https://drive.google.com/uc?export=download&amp;id=1XKG-jhEpq0zlgJmi0Mr1d5OQwA4Fvv98'
       },
       {
